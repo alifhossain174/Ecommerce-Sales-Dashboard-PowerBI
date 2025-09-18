@@ -1,6 +1,6 @@
 # Ecommerce Sales Dashboard
 
-![Ecommerce Sales Dashboard](dashboard.png)
+![Ecommerce Sales Dashboard](dashboard-preview.png)
 
 ## Overview
 
@@ -27,7 +27,7 @@ This project features an interactive Power BI dashboard that visualizes sales da
 
 ## Screenshot
 
-See `dashboard.png` for a preview of the dashboard layout and visualizations.
+See `dashboard-preview.png` for a preview of the dashboard layout and visualizations.
 
 ## License
 
